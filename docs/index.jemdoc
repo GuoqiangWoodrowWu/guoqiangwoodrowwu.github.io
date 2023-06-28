@@ -4,16 +4,16 @@
 ~~~
 {}{img_left}{photos/bio.png}{alt text}{131}{160}{}
 Associate Professor \n [https://www.sc.sdu.edu.cn/ School of Software] \n[https://www.sdu.edu.cn Shandong University]\n
-E-mail: /guoqiangwu90/ \[@\] gmail \[DOT\] com
+E-mail: /guoqiangwu90/ \[@\] gmail \[DOT\] com ; /guoqiangwu/ \[@\] sdu \[DOT\] edu \[DOT\] cn
 ~~~
 
 == About me 
+I am a tenure-track associate professor at [https://www.sc.sdu.edu.cn/ School of Software], [https://www.sdu.edu.cn Shandong University].
+I received the B.E. degree from Shandong University in 2012. 
+Then, I received my M.S. degree from [https://www.ucas.ac.cn/ University of Chinese Academy of Sciences(UCAS)] in 2015, supervised by Prof. [https://baike.baidu.com/item/阎保平/7310476?fromModule=lemma_sense-layer\&fromtitle=闫保平\&fromid=10006565\#viewPageContent Baoping Yan].
+After one year working in the industry, I returned to UCAS and received my Ph.D. degree in 2019, supervised by Prof. [https://people.ucas.ac.cn/~tianyingjie Yingjie Tian].
+From 2019 to 2021, I did my PostDoc research in [https://ml.cs.tsinghua.edu.cn/index.html TSAIL] at [https://www.tsinghua.edu.cn/ Tsinghua University], worked with Prof. [https://ml.cs.tsinghua.edu.cn/~jun/index.shtml Jun Zhu].
 
 == Research
-My research interests include 
-- Machine Learning 
-- Optimization
-- Artificial Intelligence
-
-
-
+My research interests include Machine Learning (especially Stastistical Learning Theory), Optimization, and Artificial Intelligence. 
+Recently, I work on learning theory on multi-label learning, hyperparameter optimization and deep learning.

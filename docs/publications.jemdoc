@@ -1,51 +1,62 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
 
 == Publications 
-\[[https://scholar.google.com/citations?user=KCTX-_0AAAAJ&hl=en Google Scholar]\]
+\[[https://scholar.google.com/citations?user=KCTX-_0AAAAJ&hl=en Google Scholar]\] \n
+(* denotes equal contribution)
+
+=== ~~Preprint
+- Toward Understanding Generative Data Augmentation
+    \[[https://arxiv.org/abs/2305.17476 arxiv]\] \n
+    Chenyu Zheng, *Guoqiang Wu*, Chongxuan Li
+
 === ~~2023
 
-- Towards Understanding Generalization of Macro-AUC in Multi-label Learning \[[https://arxiv.org/abs/2305.05248 arxiv]\] \n
+- Towards Understanding Generalization of Macro-AUC in Multi-label Learning 
+    \[[https://arxiv.org/abs/2305.05248 arxiv]\] \n
     *Guoqiang Wu*, Chongxuan Li, Yilong Yin \n
     In proc. of International Conference on Machine Learning (ICML), 2023. 
-- Revisiting Discriminative vs. Generative Classifiers: Theory and Implications \[[https://arxiv.org/abs/2302.02334 arxiv]\] \n
+- Revisiting Discriminative vs. Generative Classifiers: Theory and Implications 
+    \[[https://arxiv.org/abs/2302.02334 arxiv]\] \n
     Chenyu Zheng, *Guoqiang Wu*, Fan Bao, Yue Cao, Chongxuan Li, Jun Zhu \n
     In proc. of International Conference on Machine Learning (ICML), 2023.
 
 
 === ~~2021
-- Rethinking and Reweighting the Univariate Losses for Multi-Label Ranking: Consistency and Generalization \[[https://proceedings.neurips.cc/paper/2021/file/781397bc0630d47ab531ea850bddcf63-Paper.pdf pdf]\] \n
+- Rethinking and Reweighting the Univariate Losses for Multi-Label Ranking: Consistency and Generalization 
+    \[[https://proceedings.neurips.cc/paper/2021/file/781397bc0630d47ab531ea850bddcf63-Paper.pdf pdf]\] \n
     *Guoqiang Wu*\*, Chongxuan Li\*, Kun Xu, and Jun Zhu \n
     In proc. of Advances in Neural Information Processing Systems (NeurIPS), 2021.
-- Stability and Generalization of Bilevel Programming in Hyperparameter Optimization \n
+- Stability and Generalization of Bilevel Programming in Hyperparameter Optimization 
+    \[[https://proceedings.neurips.cc/paper/2021/file/781397bc0630d47ab531ea850bddcf63-Paper.pdf pdf]\] \n
     Fan Bao\*, *Guoqiang Wu*\*, Chongxuan Li\*, Jun Zhu, and Bo Zhang \n
     In proc. of Advances in Neural Information Processing Systems (NeurIPS), 2021. 
-- On the Convergence of Prior-Guided Zeroth-Order Optimization Algorithms \n
+- On the Convergence of Prior-Guided Zeroth-Order Optimization Algorithms 
+    \[[https://proceedings.neurips.cc/paper/2021/file/7aaece81f2d731fbf8ee0ad3521002ac-Paper.pdf pdf]\] \n
     Shuyu Cheng, *Guoqiang Wu*, and Jun Zhu \n
     In proc. of Advances in Neural Information Processing Systems (NeurIPS), 2021.
 
 === ~~2020
 
-- Multi-label classification: do Hamming loss and subset accuracy really conflict with each other? \n
+- Multi-label classification: do Hamming loss and subset accuracy really conflict with each other?
+    \[[https://proceedings.neurips.cc/paper/2020/file/20479c788fb27378c2c99eadcf207e7f-Paper.pdf pdf]\] \n
     *Guoqiang Wu*, and Jun Zhu. \n
     In proc. of Advances in Neural Information Processing Systems (NeurIPS), 2020
-- Joint ranking SVM and binary relevance with robust low-rank learning for multi-label classification \n
+- Joint ranking SVM and binary relevance with robust low-rank learning for multi-label classification 
+    \[[https://www.sciencedirect.com/science/article/pii/S0893608019303247 url]\] \n
     *Guoqiang Wu*, Ruobing Zheng, Yingjie Tian and Dalian Liu \n
     Neural Networks, 2020
 
 === ~~2018
-- Cost-sensitive multi-label learning with positive and negative label pairwise correlations \n
+- Cost-sensitive multi-label learning with positive and negative label pairwise correlations
+    \[[https://www.sciencedirect.com/science/article/pii/S089360801830265X url]\] \n
     *Guoqiang Wu*, Yingjie Tian, and Dalian Liu \n 
     Neural Networks, 2018
-- A unified framework implementing linear binary relevance for multi-label learning \n
+- A unified framework implementing linear binary relevance for multi-label learning
+    \[[https://www.sciencedirect.com/science/article/pii/S0925231218301395 url]\] \n
     *Guoqiang Wu*, Yingjie Tian, and Chunhua Zhang \n
     Neurocomputing, 2018
 
 -  Privileged Multi-Target Support Vector Regression \n
     *Guoqiang Wu*, Yingjie Tian, and Dalian Liu \n
     In proc. of International Conference on Pattern Recognition (ICPR), 2018
-
-[publications.html Full list of publications].
-\n
-[cv.pdf A brief cv].
-
 
