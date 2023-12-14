@@ -2,24 +2,29 @@
 
 == Publications 
 \[[https://scholar.google.com/citations?user=KCTX-_0AAAAJ&hl=en Google Scholar]\] \n
-(* denotes equal contribution)
+The code is at the [https://github.com/ML-Group-SDU Group Github]. \n
+(* denotes equal contribution, # denotes correspondence) 
 
 === ~~Preprint
-- Toward Understanding Generative Data Augmentation
-    \[[https://arxiv.org/abs/2305.17476 arxiv]\] \n
-    Chenyu Zheng, *Guoqiang Wu*, Chongxuan Li
 
 === ~~2023
 
 - Towards Understanding Generalization of Macro-AUC in Multi-label Learning 
-    \[[https://arxiv.org/abs/2305.05248 arxiv]\] \n
-    *Guoqiang Wu*, Chongxuan Li, Yilong Yin \n
+    \[[https://proceedings.mlr.press/v202/wu23l/wu23l.pdf pdf]\] \n
+    *Guoqiang Wu*\#, Chongxuan Li, Yilong Yin \n
     In proc. of International Conference on Machine Learning (ICML), 2023. 
 - Revisiting Discriminative vs. Generative Classifiers: Theory and Implications 
-    \[[https://arxiv.org/abs/2302.02334 arxiv]\] \n
-    Chenyu Zheng, *Guoqiang Wu*, Fan Bao, Yue Cao, Chongxuan Li, Jun Zhu \n
+    \[[https://proceedings.mlr.press/v202/zheng23f/zheng23f.pdf pdf]\] \n
+    Chenyu Zheng, *Guoqiang Wu*, Fan Bao, Yue Cao, Chongxuan Li\#, Jun Zhu \n
     In proc. of International Conference on Machine Learning (ICML), 2023.
-
+- Toward Understanding Generative Data Augmentation 
+    \[[https://arxiv.org/abs/2305.17476 arXiv]\] \n
+    Chenyu Zheng, *Guoqiang Wu*, Chongxuan Li\# \n
+    In proc. of Advances in Neural Information Processing Systems (NeurIPS), 2023. 
+- DiffAIL: Diffusion Adversarial Imitation Learning
+    \[[https://arxiv.org/abs/2312.06348 arXiv]\] \n
+    Bingzheng Wang, *Guoqiang Wu*\#, Teng Pang, Yan Zhang, Yilong Yin\# \n
+    In proc. of AAAI Conference on Artificial Intelligence (AAAI), 2024. 
 
 === ~~2021
 - Rethinking and Reweighting the Univariate Losses for Multi-Label Ranking: Consistency and Generalization 
@@ -27,11 +32,11 @@
     *Guoqiang Wu*\*, Chongxuan Li\*, Kun Xu, and Jun Zhu \n
     In proc. of Advances in Neural Information Processing Systems (NeurIPS), 2021.
 - Stability and Generalization of Bilevel Programming in Hyperparameter Optimization 
-    \[[https://proceedings.neurips.cc/paper/2021/file/781397bc0630d47ab531ea850bddcf63-Paper.pdf pdf]\] \n
+    \[[https://proceedings.neurips.cc/paper/2021/file/2406a0a94c80406914ff2f6c9fdd67d5-Paper.pdf pdf]\] \n
     Fan Bao\*, *Guoqiang Wu*\*, Chongxuan Li\*, Jun Zhu, and Bo Zhang \n
     In proc. of Advances in Neural Information Processing Systems (NeurIPS), 2021. 
 - On the Convergence of Prior-Guided Zeroth-Order Optimization Algorithms 
-    \[[https://proceedings.neurips.cc/paper/2021/file/7aaece81f2d731fbf8ee0ad3521002ac-Paper.pdf pdf]\] \n
+    \[[https://proceedings.neurips.cc/paper_files/paper/2021/file/7aaece81f2d731fbf8ee0ad3521002ac-Paper.pdf pdf]\] \n
     Shuyu Cheng, *Guoqiang Wu*, and Jun Zhu \n
     In proc. of Advances in Neural Information Processing Systems (NeurIPS), 2021.
 
