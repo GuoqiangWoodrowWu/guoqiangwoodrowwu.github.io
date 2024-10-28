@@ -7,6 +7,13 @@ The code is at the [https://github.com/ML-Group-SDU Group Github]. \n
 
 === ~~Preprint
 
+=== ~~2024
+
+- QFAE: Q-Function guided Action Exploration for offline deep reinforcement learning
+    \[[https://doi.org/10.1016/j.patcog.2024.111032 url]] \n
+    Teng Pang, *Guoqiang Wu*\#, Yan Zhang, Bingzheng Wang, Yilong Yin \n
+    Pattern Recognition, 2024
+    
 === ~~2023
 
 - Towards Understanding Generalization of Macro-AUC in Multi-label Learning 
